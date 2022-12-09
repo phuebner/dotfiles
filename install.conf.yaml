@@ -1,6 +1,9 @@
-
+- defaults:
+    link:
+      create: true
+      relink: true
 
 - link:
     ~/.zshrc: zshrc
-
+    ~/.tmux.conf: tmux.conf
 
